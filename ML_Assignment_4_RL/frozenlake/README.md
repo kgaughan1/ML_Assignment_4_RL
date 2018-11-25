@@ -6,9 +6,9 @@ VI, PI, and Q-Learning can be run using the FrozenLake_Engine.py file.  This can
 
 Depending on if a grid world of 4x4, 8x8 or 16x16 is to be generated, include or copy out the following lines from the top of FrozenLake_Engine.py.
 
-# from deeprl_hw1.rl1 import *
-# from deeprl_hw1.rl8 import *
-# from deeprl_hw1.rl16 import *
+from deeprl_hw1.rl1 import *
+from deeprl_hw1.rl8 import *
+from deeprl_hw1.rl16 import *
 
 Note:
 rl1 is for 4x4
